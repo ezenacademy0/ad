@@ -1,3 +1,8 @@
+> **Mirror note (2026-11-06):** The source code, documentation, and 22 reference images are mirrored here. The following three binary 3D files exceed the GitHub content-read limit exposed by the connected transfer API and are therefore not copied into this mirror yet. They remain available in the upstream repository:
+> - [Kirsch_Home_3D_Jutsu.blend](https://github.com/highsun9941/AD/blob/main/Kirsch_Home_3D_Jutsu.blend)
+> - [Kirsch_Home_3D_Jutsu.glb](https://github.com/highsun9941/AD/blob/main/Kirsch_Home_3D_Jutsu.glb)
+> - [Kirsh_Home_Product_Preview.glb](https://github.com/highsun9941/AD/blob/main/product-preview/Kirsh_Home_Product_Preview.glb)
+
 # 키르시홈 3D Jutsu 광고 샘플
 
 > [침구 제품 3D 미리보기](product-preview/)에서 제품 사진 22장을 바탕으로 만든 쇼룸과 Higgsfield MCP 연결 방법을 확인할 수 있습니다.
