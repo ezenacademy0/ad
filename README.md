@@ -1,7 +1,10 @@
-> **Mirror note (2026-11-06):** The source code, documentation, and 22 reference images are mirrored here. The following three binary 3D files exceed the GitHub content-read limit exposed by the connected transfer API and are therefore not copied into this mirror yet. They remain available in the upstream repository:
-> - [Kirsch_Home_3D_Jutsu.blend](https://github.com/highsun9941/AD/blob/main/Kirsch_Home_3D_Jutsu.blend)
-> - [Kirsch_Home_3D_Jutsu.glb](https://github.com/highsun9941/AD/blob/main/Kirsch_Home_3D_Jutsu.glb)
-> - [Kirsh_Home_Product_Preview.glb](https://github.com/highsun9941/AD/blob/main/product-preview/Kirsh_Home_Product_Preview.glb)
+> **Mirror note (2026-11-06):** Source code, documentation, and all 22 reference images are mirrored in this repository. The upstream repository is also pinned as the `upstream-source` submodule at source commit `5be3124aef5202f3b5f4bfdb3568e6e2c7b17548`. This preserves access to the three large binary 3D files and the full upstream history. Use:
+>
+> ```bash
+> git clone --recurse-submodules https://github.com/ezenacademy0/ad.git
+> ```
+>
+> The large files are available from `upstream-source/` after submodule initialization.
 
 # 키르시홈 3D Jutsu 광고 샘플
 
